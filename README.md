@@ -1,4 +1,4 @@
-# Suno Song Generation API Integration Instructions
+# Suno Music Generation API Integration Guidance
 
 As AI applications become more widespread, various AI programs have gradually become popular. AI has increasingly penetrated into many aspects of people's work and life. The industries involved in AI are also growing, from initial writing to healthcare education, and now to music.
 
